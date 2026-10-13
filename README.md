@@ -1,2 +1,2 @@
 # pmb.iaipdk.indramayu
-nstitut Agama Islam Pangeran Dharma Kusuma
+Wep App Penerimaan Mahasiswa Bara Institut Agama Islam Pangeran Dharma Kusuma (IAI PDK) Indramayu
